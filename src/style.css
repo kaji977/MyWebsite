@@ -1,4 +1,9 @@
 /* display background color black on navbar scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+
 .navbarScroll.navbarDark {
     background-color: black;
     }
@@ -58,3 +63,5 @@
     background-color: 1#808080;
     text-align: center;
     }
+
+   
